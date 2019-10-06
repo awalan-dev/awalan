@@ -10,6 +10,8 @@
 
 class Authentication extends CI_Controller {
     
-    
-    
+   public function test(){
+       echo 'hekoo there';
+       exit();
+   }
 }
